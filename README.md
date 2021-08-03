@@ -6,4 +6,5 @@ In this project, Faculty members can do the following:
   3) add or drop a room from the application and put in available dates that rooms are available for.
   4) check the status of a faculty member to see what rooms and dates the faculty member has reserved and/or is waitlisted for.
   5) check the status of the waitlist to see what faculty members are waiting for rooms.
-overall this was a fun project that helped build up my knowledge on backend and frontend development.
+
+Overall, this was a fun project that helped build up my knowledge on backend and frontend development, Java, SQL, and databases. Hope you enjoy!
