@@ -1,5 +1,5 @@
 # RoomScheduler-Project
-Designed a room scheduler GUI application using Java, derby databases, and SQL to help faculty members manage rooms for a building on campus.
+Designed a room scheduler GUI application in NetBeans using Java, derby databases, and SQL to help faculty members manage rooms for a building on campus.
 In this project, Faculty members can do the following:
   1) make a reveration for a room based on the date and number of seats available for the room
   2) cancel a prior reservation based on the date and availabilty.
